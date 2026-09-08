@@ -64,3 +64,4 @@ The residual plot for the final model still shows a **funnel pattern** — resid
 pip install -r requirements.txt
 jupyter notebook diamond_price_regression.ipynb
 ```
+# Diamond-Price-Regression
